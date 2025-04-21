@@ -60,7 +60,7 @@
 
 <p align="center">
     <a href="https://github.com/Hammadsheikh5">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hammadsheikh5258&bg_color=0D1117&color=58A6FF&line=EB5454&point=58A6FF&hide_border=true&theme=github-compact&area=true" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hammadsheikh5&bg_color=0D1117&color=58A6FF&line=EB5454&point=58A6FF&hide_border=true&theme=github-compact&area=true" width="100%" />
     </a>
 </p>
 
